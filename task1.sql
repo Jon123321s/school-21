@@ -1,8 +1,4 @@
 
-part1.sql - Создание базы данных и таблиц
-
-
-
 -- 1. Таблица Peers
 CREATE TABLE IF NOT EXISTS Peers (
     Nickname VARCHAR PRIMARY KEY,

@@ -1,4 +1,4 @@
-part2.sql - Изменение данных 
+
 
 -- 1. Триггер для обновления TransferredPoints при начале P2P проверки
 CREATE TRIGGER IF NOT EXISTS trg_update_transferred_points
